@@ -27,13 +27,13 @@ Works on all screen breakpoints
 
 ## Project Structure
 project-folder
-│
-├── index.html
-├── style.css
-├── assets
-│   └── images
-│
-└── README.md
+│<br>
+├── index.html<br>
+├── style.css<br>
+├── assets<br>
+│   └── images<br>
+│<br>
+└── README.md<br>
 
 ## Responsive Design
 

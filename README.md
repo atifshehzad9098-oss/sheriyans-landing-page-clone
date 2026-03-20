@@ -26,7 +26,7 @@ Responsive Navigation Layout
 Works on all screen breakpoints
 
 ## Project Structure
-project-folder
+project-folder<br>
 │<br>
 ├── index.html<br>
 ├── style.css<br>
